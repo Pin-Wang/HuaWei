@@ -6,7 +6,7 @@
  */
 
 
-
+/*
 #include<iostream>
 using namespace std;
 
@@ -32,3 +32,4 @@ int main(){
 	cout<<a*b/gYS(a,b);
 	return 0;
 }
+*/
