@@ -4,7 +4,7 @@
  *  Created on: 2016年7月14日
  *      Author: Pin-Wang
  */
-
+/*
 #include<iostream>
 #include<string>
 using namespace std;
@@ -61,7 +61,7 @@ int main(){
 	return 0;
 }
 
-
+*/
 
 
 
